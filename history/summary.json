@@ -23,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.stokta.app.ico",
     "slug": "stokta-api",
     "status": "up",
-    "uptime": "79.54%",
-    "uptimeDay": "79.54%",
-    "uptimeWeek": "79.54%",
-    "uptimeMonth": "79.54%",
-    "uptimeYear": "79.54%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 592,
     "timeDay": 592,
     "timeWeek": 592,
     "timeMonth": 592,
     "timeYear": 592,
-    "dailyMinutesDown": {
-      "2025-04-17": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
