@@ -22,17 +22,19 @@
     "url": "https://api.stokta.app/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.stokta.app.ico",
     "slug": "stokta-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 597,
-    "timeDay": 607,
-    "timeWeek": 597,
-    "timeMonth": 597,
-    "timeYear": 597,
-    "dailyMinutesDown": {}
+    "time": 614,
+    "timeDay": 643,
+    "timeWeek": 614,
+    "timeMonth": 614,
+    "timeYear": 614,
+    "dailyMinutesDown": {
+      "2025-04-19": 0
+    }
   }
 ]
