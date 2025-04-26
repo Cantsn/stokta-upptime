@@ -1,7 +1,7 @@
 url: https://api.stokta.app/api/health
-status: up
-code: 200
-responseTime: 728
-lastUpdated: 2025-04-25T23:13:42.283Z
+status: down
+code: 502
+responseTime: 511
+lastUpdated: 2025-04-26T10:13:41.930Z
 startTime: 2025-04-17T23:03:54.621Z
 generator: Upptime <https://github.com/upptime/upptime>
